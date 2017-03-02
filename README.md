@@ -1,5 +1,5 @@
 # macOS Sierra v. 10.12 Setup 
-
+Oscar was here.
 *12/29/16*
 
 [View a more detailed explanation of these steps here.](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
