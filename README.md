@@ -68,24 +68,25 @@ tap 'caskroom/cask'
 brew 'git'
 brew 'node'
 brew 'npm'
+#brew 'chefdk'
+cask 'virtualbox'
+cask 'vagrant'
+cask 'vagrant-manager'
+brew  'docker'
+brew 'docker-machine'
 
 cask 'brackets'
-cask 'flux'
-cask 'firefox'
-cask 'gimp'
-cask 'google-chrome'
+cask 'chefdk'
+cask 'mamp'
 cask 'opera'
-cask 'spectacle'
+cask 'firefox'
+cask 'google-chrome'
+cask 'sublime-text'
 cask 'sequel-pro'
-cask 'utorrent'
+cask 'flux'
 cask 'vlc'
 
-mas 'Numbers', id: 409203825
-mas 'Pages', id: 409201541
 mas 'Slack', id: 803453959
-mas 'Sip', id: 507257563 
-mas 'Simplenote', id: 692867256 
-mas 'Todoist', id: 585829637
 ```
 
 ## GitHub
