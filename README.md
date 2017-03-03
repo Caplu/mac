@@ -70,6 +70,7 @@ brew 'node'
 brew 'npm'
 brew 'docker'
 brew 'docker-machine'
+brew 'antigen'
 
 cask 'chefdk'
 cask 'virtualbox'
