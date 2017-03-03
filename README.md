@@ -76,15 +76,13 @@ cask 'chefdk'
 cask 'virtualbox'
 cask 'vagrant'
 cask 'vagrant-manager'
-cask 'brackets'
 cask 'mamp'
 cask 'opera'
 cask 'firefox'
 cask 'google-chrome'
 cask 'sublime-text'
 cask 'sequel-pro'
-cask 'flux'
-cask 'vlc'
+cask 'skype-for-business'
 
 mas 'Slack', id: 803453959
 ```
